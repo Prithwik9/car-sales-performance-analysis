@@ -52,3 +52,9 @@ The main analysis workbook contains:
 The complete Excel workbook is available in this repository:
 
 **Car Sales Performance Analysis.xlsx**
+
+## Dashboard Preview
+
+![Dashboard Top](dashboard_top.png)
+
+![Dashboard Bottom](dashboard_bottom.png)
